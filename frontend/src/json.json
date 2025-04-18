@@ -1,0 +1,15 @@
+{
+    "name": "Jose",
+    "email": "Jose@example.com",
+    "password": "$2b$10$5GDbncQvH/AOqshuX.H7N.otT3brrl1oHbMdSXEcjzzbMTXAXEE5K",
+    "role": "student",
+    "active": true,
+    "classInfo": {
+        "teacher": "Jen",
+        "level": "B1",
+        "schedule": [
+            { "day": "Tuesday", "time": "6:30 pm", "url": "https://us02web.zoom.us/b1" },
+            { "day": "Thusday", "time": "6:30 pm", "url": "https://us02web.zoom.us/b1" }
+        ]
+    }
+}
